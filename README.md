@@ -93,5 +93,6 @@ At the end of the this hands-on training, students will be able to;
 # sudo dnf update -y
 # sudo dnf install python3 -y
 # sudo dnf install python-pip
-# pip3 install FLask==2.3.3 ( Deprecated feature used in. Above Flask 2.3.3 does not supported.)
-# pip3 install flask-mysql
+# sudo pip3 install FLask==2.3.3 ( Deprecated feature used in. Above Flask 2.3.3 does not supported.)
+# sudo pip3 install flask-mysql
+# sudo pip3 install flask-mysqlalchemy
